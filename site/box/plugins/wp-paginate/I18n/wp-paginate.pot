@@ -1,0 +1,360 @@
+# Translation of the WordPress plugin WP-Paginate 1.1.2 by Noah Cinquini.
+# Copyright 2014 Studio Fuel (http://www.studiofuel.com)
+# This file is distributed under the same license as the WP-Paginate package.
+# Noah Cinquini <noah@studiofuel.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Paginate 1.33\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-paginate\n"
+"POT-Creation-Date: 2017-01-14 20:08+0100\n"
+"PO-Revision-Date: 2017-01-14 20:08+0100\n"
+"Last-Translator: Maxgalleria <support@maxfoundry.com>\n"
+"Language-Team:  <support@maxfoundry.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-paginate.php:128
+msgid "Function only"
+msgstr ""
+
+#: ../wp-paginate.php:129
+msgid "Below the Content"
+msgstr ""
+
+#: ../wp-paginate.php:130
+msgid "Above the Content"
+msgstr ""
+
+#: ../wp-paginate.php:131
+msgid "Above and Below the Content"
+msgstr ""
+
+#: ../wp-paginate.php:135
+msgid "inherit"
+msgstr ""
+
+#: ../wp-paginate.php:136
+msgid "initial"
+msgstr ""
+
+#: ../wp-paginate.php:137
+msgid "Arial"
+msgstr ""
+
+#: ../wp-paginate.php:138
+msgid "Georgia"
+msgstr ""
+
+#: ../wp-paginate.php:139
+msgid "Tahoma"
+msgstr ""
+
+#: ../wp-paginate.php:140
+msgid "Times New Roman"
+msgstr ""
+
+#: ../wp-paginate.php:141
+msgid "Trebuchet MS"
+msgstr ""
+
+#: ../wp-paginate.php:142
+msgid "Verdana"
+msgstr ""
+
+#: ../wp-paginate.php:146
+msgid "Grey Buttons"
+msgstr ""
+
+#: ../wp-paginate.php:147
+msgid "Blue Buttons"
+msgstr ""
+
+#: ../wp-paginate.php:471 ../wp-paginate.php:527
+msgid "Settings"
+msgstr ""
+
+#: ../wp-paginate.php:514
+msgid "Success! Your changes were successfully saved!"
+msgstr ""
+
+#: ../wp-paginate.php:517
+msgid "Whoops! There was a problem with the data you posted. Please try again."
+msgstr ""
+
+#: ../wp-paginate.php:528
+msgid "Custom CSS"
+msgstr ""
+
+#: ../wp-paginate.php:529
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../wp-paginate.php:536
+msgid "General"
+msgstr ""
+
+#: ../wp-paginate.php:539
+msgid "Pagination Label:"
+msgstr ""
+
+#: ../wp-paginate.php:541
+msgid "The optional text/HTML to display before the list of pages."
+msgstr ""
+
+#: ../wp-paginate.php:544
+msgid "Previous Page:"
+msgstr ""
+
+#: ../wp-paginate.php:546
+msgid "The text/HTML to display for the previous page link."
+msgstr ""
+
+#: ../wp-paginate.php:549
+msgid "Next Page:"
+msgstr ""
+
+#: ../wp-paginate.php:551
+msgid "The text/HTML to display for the next page link."
+msgstr ""
+
+#: ../wp-paginate.php:555
+msgid "Location &amp; Position"
+msgstr ""
+
+#: ../wp-paginate.php:558
+msgid "Everywhere:"
+msgstr ""
+
+#: ../wp-paginate.php:560
+msgid "Display pagination everywhere. (Comments pagination not included.)"
+msgstr ""
+
+#: ../wp-paginate.php:563
+msgid "Home Page:"
+msgstr ""
+
+#: ../wp-paginate.php:565
+msgid "Display pagination on the home page."
+msgstr ""
+
+#: ../wp-paginate.php:568
+msgid "Blog Page:"
+msgstr ""
+
+#: ../wp-paginate.php:570
+msgid "Display pagination on the blog page."
+msgstr ""
+
+#: ../wp-paginate.php:573
+msgid "Search Page:"
+msgstr ""
+
+#: ../wp-paginate.php:575
+msgid "Display pagination on the search page."
+msgstr ""
+
+#: ../wp-paginate.php:578
+msgid "Category Pages:"
+msgstr ""
+
+#: ../wp-paginate.php:580
+msgid "Display pagination on category pages."
+msgstr ""
+
+#: ../wp-paginate.php:583
+msgid "Archive Pages:"
+msgstr ""
+
+#: ../wp-paginate.php:585
+msgid "Display pagination on archive pages."
+msgstr ""
+
+#: ../wp-paginate.php:610
+msgid "Position:"
+msgstr ""
+
+#: ../wp-paginate.php:618
+msgid "Where to display the pagination on the page."
+msgstr ""
+
+#: ../wp-paginate.php:621
+msgid "Hide Standard Pagination:"
+msgstr ""
+
+#: ../wp-paginate.php:623
+msgid "Hide the standard theme default pagaination."
+msgstr ""
+
+#: ../wp-paginate.php:627
+msgid "Apperance"
+msgstr ""
+
+#: ../wp-paginate.php:630
+msgid "Pagination Font:"
+msgstr ""
+
+#: ../wp-paginate.php:638
+msgid "Select the font to use with the pagination."
+msgstr ""
+
+#: ../wp-paginate.php:641
+msgid "Button Style:"
+msgstr ""
+
+#: ../wp-paginate.php:662
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../wp-paginate.php:665
+msgid "Before Markup:"
+msgstr ""
+
+#: ../wp-paginate.php:667
+msgid "The HTML markup to display before the pagination code."
+msgstr ""
+
+#: ../wp-paginate.php:670
+msgid "After Markup:"
+msgstr ""
+
+#: ../wp-paginate.php:672
+msgid "The HTML markup to display after the pagination code."
+msgstr ""
+
+#: ../wp-paginate.php:675
+msgid "Markup Display:"
+msgstr ""
+
+#: ../wp-paginate.php:677
+msgid "Show Before Markup and After Markup, even if the page list is empty?"
+msgstr ""
+
+#: ../wp-paginate.php:680
+msgid "WP-Paginate CSS File:"
+msgstr ""
+
+#: ../wp-paginate.php:682
+#, php-format
+msgid ""
+"Include the default stylesheet wp-paginate.css? WP-Paginate will first look "
+"for <code>wp-paginate.css</code> in your theme directory (<code>themes/%s</"
+"code>)."
+msgstr ""
+
+#: ../wp-paginate.php:685
+msgid "Page Range:"
+msgstr ""
+
+#: ../wp-paginate.php:692
+msgid ""
+"The number of page links to show before and after the current page. "
+"Recommended value: 3"
+msgstr ""
+
+#: ../wp-paginate.php:695
+msgid "Page Anchors:"
+msgstr ""
+
+#: ../wp-paginate.php:702
+msgid ""
+"The number of links to always show at beginning and end of pagination. "
+"Recommended value: 1"
+msgstr ""
+
+#: ../wp-paginate.php:705
+msgid "Page Gap:"
+msgstr ""
+
+#: ../wp-paginate.php:712
+msgid ""
+"The minimum number of pages in a gap before an ellipsis (...) is added. "
+"Recommended value: 3"
+msgstr ""
+
+#: ../wp-paginate.php:757
+msgid "Need Support?"
+msgstr ""
+
+#: ../wp-paginate.php:758
+#, php-format
+msgid ""
+"For questions, issues or feature requests, please post them in the %s and "
+"make sure to tag the post with wp-paginate."
+msgstr ""
+
+#: ../wp-paginate.php:804
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr ""
+
+#: ../wp-paginate.php:833
+#, php-format
+msgid "File %s edited successfully."
+msgstr ""
+
+#: ../wp-paginate.php:835
+msgid "Not enough permissions to create or update the file"
+msgstr ""
+
+#: ../wp-paginate.php:846
+msgid "Learn more"
+msgstr ""
+
+#: ../wp-paginate.php:862
+msgid "These styles will be added to the header on all pages of your site."
+msgstr ""
+
+#: ../wp-paginate.php:866
+msgid "Editing"
+msgstr ""
+
+#: ../wp-paginate.php:868
+msgid "Browsing"
+msgstr ""
+
+#: ../wp-paginate.php:871
+msgid "Activate"
+msgstr ""
+
+#: ../wp-paginate.php:876
+msgid "Save Changes"
+msgstr ""
+
+#: ../wp-paginate.php:880
+#, php-format
+msgid ""
+"You need to make this files writable before you can save your changes. See "
+"%s the Codex %s for more information."
+msgstr ""
+
+#: ../wp-paginate.php:989
+msgid "Love WP-Paginate?"
+msgstr ""
+
+#: ../wp-paginate.php:990
+msgid "Your rating is a big help! We really appreciate it!"
+msgstr ""
+
+#: ../wp-paginate.php:993
+msgid "I've already left a review"
+msgstr ""
+
+#: ../wp-paginate.php:994
+msgid "Maybe Later"
+msgstr ""
+
+#: ../wp-paginate.php:995
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: ../wp-paginate.php:1007 ../wp-paginate.php:1021
+msgid "missing nonce!"
+msgstr ""

@@ -1,0 +1,7 @@
+# <IfModule mod_rewrite.c>
+#   RewriteEngine On
+#   RewriteCond %{HTTP_HOST}        una.dev
+#   RewriteCond %{REQUEST_FILENAME} !-f
+#   RewriteCond %{REQUEST_FILENAME} !-d+553199405507
+#   RewriteRule ^(.*) http://192.168.1.31/box/uploads/$1 [L,P]
+# </IfModule>
